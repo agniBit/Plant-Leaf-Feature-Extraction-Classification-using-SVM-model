@@ -12,3 +12,5 @@ Extract features for classification using 'feat_ext.ipynb'
 
 Train SVM model using 'SVM model.ipynb' and this ipynb file save 3 trained model in .pckl file
 
+for any support contact '  agni.abhi00@gmail.com  '
+
